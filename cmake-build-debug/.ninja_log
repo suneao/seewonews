@@ -1,0 +1,6 @@
+# ninja log v5
+5	3030	7196922360483372	CMakeFiles/newsmaker.dir/main.cpp.obj	4cc71602bd652758
+1	3307	7196935279925219	newsmaker.exe	fab95b7aa5a06f74
+1	404	7200361407179112	build.ninja	fa5bb1461c8c07b0
+1	2114	7200372492099126	CMakeFiles/newsmaker.dir/main.cpp.obj	55e5bb03841fdb1c
+2120	2716	7200372497470608	newsmaker.exe	57efb5c56435240b

@@ -1,0 +1,3 @@
+"F:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\newsmaker.dir/objects.a
+"F:\Program Files\JetBrains\CLion 2023.2.2\bin\mingw\bin\ar.exe" qc CMakeFiles\newsmaker.dir/objects.a @CMakeFiles\newsmaker.dir\objects1.rsp
+"F:\Program Files\JetBrains\CLion 2023.2.2\bin\mingw\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\newsmaker.dir/objects.a -Wl,--no-whole-archive -o newsmaker.exe -Wl,--out-implib,libnewsmaker.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\newsmaker.dir\linkLibs.rsp

@@ -1,0 +1,3 @@
+F:/Gose/code_cpp/gosecpp/newsmaker/cmake-build-debug/CMakeFiles/newsmaker.dir
+F:/Gose/code_cpp/gosecpp/newsmaker/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Gose/code_cpp/gosecpp/newsmaker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
